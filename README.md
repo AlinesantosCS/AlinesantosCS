@@ -1,6 +1,5 @@
 <center>
-
-![Markdown](https://ik.imagekit.io/4y9ur9htnpx/love_and_joy_gAJaB4dTg.gif)
+<img src="https://ik.imagekit.io/4y9ur9htnpx/love_and_joy_gAJaB4dTg.gif" width="1200px"></h2>
 <center>
 
 ----
