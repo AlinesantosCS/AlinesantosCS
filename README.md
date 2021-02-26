@@ -1,5 +1,5 @@
 <center>
-<img src="https://ik.imagekit.io/4y9ur9htnpx/love_and_joy_gAJaB4dTg.gif" width="1100px"></h2>
+<img src="https://ik.imagekit.io/4y9ur9htnpx/love_and_joy_gAJaB4dTg.gif" width="1000px"></h2>
 <center>
 
 ----
