@@ -25,7 +25,8 @@
 ***
      Sou uma pessoa apaixonada por tecnologia, estudande de dados pela resilia educação. Primeiro contato na área foi 
      com podcast, meados de 2018 decidi entrar na área com o técnico em informática pelo Senai, tive que trancar, 
-     mas já fui fisgada pelo campo de atuação. Atualmente estou no último semestre no técnico de desenvolvimento de sistemas pela Etec, da qual entrei em 2020. 
+     mas já fui fisgada pelo campo de atuação. Atualmente estou no último semestre no técnico de desenvolvimento de 
+     sistemas pela Etec, da qual entrei em 2020. 
     
 
 </center>
