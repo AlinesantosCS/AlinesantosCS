@@ -20,7 +20,7 @@
  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="150px"></h2>
 </center> 
 
-## **~ Um pouco sobre mim ~** 
+## ***~ Um pouco sobre mim ~*** 
 
 ***
      Sou uma pessoa apaixonada por tecnologia, estudande de dados pela resilia educação. Primeiro contato na área foi com podcast, meados de 2018 decidi entrar na área com o técnico em informática pelo Senai, tive que trancar, mas já fui fisgada pelo campo de atuação.
@@ -35,7 +35,7 @@
 
 <center>
 
-## **~ Sobre a minha caminhada ~** 
+## ***~ Sobre a minha caminhada ~*** 
 *** 
     Conteúdos que estou aprendendo:
 </center>
