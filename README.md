@@ -67,7 +67,7 @@
 
 <a href="https://www.linkedin.com/in/alinesantoscs/"><img src="https://ik.imagekit.io/4y9ur9htnpx/icons8-linkedin-64_a_GB82jPw.png" width="30px"></img></a>
 
-### Olhem o meu repositório <img src="https://media.giphy.com/media/xTiIzrkmUZpP6kYF20/giphy.gif" width="50px"></h2>
+### Olhem os meus repositórios <img src="https://media.giphy.com/media/xTiIzrkmUZpP6kYF20/giphy.gif" width="50px"></h2>
 ***
 
 <center>
